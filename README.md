@@ -13,7 +13,7 @@ Two datasets were used for this project. The first being the hypothetical econom
 
 # Approach
 
-My goal was to model the behavior between JPMorgan's finances to the broader macro environment. The various components of the bank's income was evaluated seperarely to best capture each component on income individually. The same was done for expensese.
+My goal was to model the behavior between JPMorgan's finances to the broader macro environment. The various components of the bank's income was evaluated seperarely to best capture each component on income individually. The same was done for expenses.
 
 After creating a regression model for each component of income and expenses, they were forecasted out ove the 9 quarter horizon. From this data, net interest income and expenses are computed
 
